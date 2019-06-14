@@ -65,7 +65,7 @@ This project contains 3 main files:
 <li><b>data.csv : </b> It contains messages and class(spam/ham).</li>
 <li><b>Model Selection.ipynb : </b> Here models were compaired and best dumped as <b>model.sav</b> along with <b>trainingVector.</b></li>
 <li><b>detector.py : </b> This is main file which return the classification result of message from user input.</li>
+</ul>
 
 # 3. Screenshot
-
-</ul>
+<img src="output/out.png"/>
